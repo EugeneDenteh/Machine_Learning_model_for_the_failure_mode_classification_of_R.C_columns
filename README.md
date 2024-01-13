@@ -53,7 +53,7 @@ After extensive model development and fine-tuning, the following results were ac
 - **Cross-Validation:** Cross-validation was employed to assess the model's performance across multiple subsets of the dataset. The consistent high F1 score across these folds validates the robustness of the model.
 
 - **Confusion Matrix:** The confusion matrix was used to visualize the model's performance in detail. It provides insights into the true positives, true negatives, false positives, and false negatives, offering a comprehensive view of the classification results.
-- ![Confusion Matrix](confusion_matrix.png)
+- ![Confusion Matrix](data/confusion_matrix.png)
 
 These results showcase the effectiveness of the developed machine learning model in accurately classifying failure modes of R.C columns. Fine-tuning the model further contributed to its exceptional performance.
 
